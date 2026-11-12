@@ -1,0 +1,83 @@
+[
+  {
+    "video_id": 0,
+    "title": "HLS adaptive streaming test",
+    "description": "HLS stream with different resolutions.",
+    "upload_date": "2026-10-23T12:00:00.000Z",
+    "owner_id": 1,
+    "status": "uploaded",
+    "filename": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "video_id": 1,
+    "title": "After dark in Taipei's night markets",
+    "description": "Eat your way through three night markets in one evening, from stinky tofu to shaved-ice mountains, with tips on what to order and when to arrive.",
+    "upload_date": "2026-10-04T18:12:41.220Z",
+    "owner_id": 1,
+    "status": "uploaded",
+    "filename": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "video_id": 2,
+    "title": "Sourdough without the guesswork",
+    "description": "A beginner-friendly walkthrough of feeding a starter, reading the dough, and baking a crackling loaf with nothing more than a pot and a hot oven.",
+    "upload_date": "2026-09-27T09:03:15.874Z",
+    "owner_id": 2,
+    "status": "uploaded",
+    "filename": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "video_id": 3,
+    "title": "Three days on the Coastal Trail",
+    "description": "Packing lists, campsite picks, and the one stretch of trail you should hike at sunrise on a 38-mile walk along the cliffs.",
+    "upload_date": "2026-09-15T21:47:02.511Z",
+    "owner_id": 3,
+    "status": "uploaded",
+    "filename": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "video_id": 4,
+    "title": "Build a sound from scratch on a synth",
+    "description": "Oscillators, filters, and envelopes explained with one patch you can recreate on almost any synthesizer, hardware or software.",
+    "upload_date": "2026-08-30T14:30:58.097Z",
+    "owner_id": 1,
+    "status": "uploaded",
+    "filename": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "video_id": 5,
+    "title": "A kitchen garden on a 4-foot balcony",
+    "description": "Which herbs and vegetables actually thrive in containers, how to stack them vertically, and a simple watering routine that survives busy weeks.",
+    "upload_date": "2026-08-11T07:55:33.640Z",
+    "owner_id": 2,
+    "status": "uploaded",
+    "filename": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "video_id": 6,
+    "title": "Five endgames every player should know",
+    "description": "Lucena, Philidor, and three more essential positions, each broken down into plain-language ideas you can actually remember at the board.",
+    "upload_date": "2026-07-22T16:21:09.382Z",
+    "owner_id": 3,
+    "status": "uploaded",
+    "filename": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "video_id": 7,
+    "title": "Inside a working film darkroom",
+    "description": "lorem ipsum dolor sit amet consectetur adipiscing elit consequatur repellendus officia tempore provident dolor deleniti mollitia adipiscing cillum repellendus accusamus atque rerum cillum eu eos eiusmod velit do do quis dolor libero consequatur minus et nulla dolor facilis dolorem corrupti dolorem exercitation duis officia cum consequat odio dolor et soluta accusamus minus sit at voluptas rerum ullamco consequat cupiditate consequatur cupiditate dolores similique quos in dolore dolores mollitia sint nostrud nisi officia maxime commodo cupidatat officia est optio ducimus accusamus quas possimus deserunt id fugiat repellendus reprehenderit soluta expedita quidem esse consequat similique ut tempor qui dolorem at id dignissimos et maxime mollitia quibusdam cupiditate ea consequatur vero cum et ex commodo libero repellendus voluptate",
+    "upload_date": "2026-07-05T11:08:47.915Z",
+    "owner_id": 1,
+    "status": "uploaded",
+    "filename": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "video_id": 8,
+    "title": "Growing a reef from fragments",
+    "description": "Marine biologists show how coral fragments are grown in nurseries and replanted on damaged reefs, and what the first survival numbers look like.",
+    "upload_date": "2026-06-18T23:56:23.544Z",
+    "owner_id": 2,
+    "status": "uploaded",
+    "filename": "https://www.w3schools.com/html/mov_bbb.mp4"
+  }
+]

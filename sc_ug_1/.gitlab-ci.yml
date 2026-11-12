@@ -1,0 +1,27 @@
+image: node:22
+
+stages:
+  - deploy
+
+deploy-pages:
+  stage: deploy
+
+  tags:
+    - expo
+    
+  script:
+    - export PATH="/opt/node22/bin:$PATH"
+    - pwd
+    - node --version
+    - npm --version
+    - cd Frontend
+    - cd streamitra
+    - npm ci
+    - npx expo export --platform web
+    - test -f dist/index.html
+
+  pages:
+    publish: Frontend/streamitra/dist
+
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
